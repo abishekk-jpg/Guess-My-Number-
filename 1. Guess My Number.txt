@@ -1,0 +1,10 @@
+1. Guess My Number
+About:
+A random number is given and the player(you) guesses the number. Every turn you throw your guess and if it's not correct, the program gives you a hint - ups or downs. You have 20 chances and your point decreases by one as you fail to guess each turn. If you get the number right, your point at the moment is your final point. If it's higher than existing highest point, it replaces the existing one.
+
+What I Learned:
+project done using HTML, CSS, JS. Learned about DOM and how to manipulate DOM while working on this project. Also learned multiple ways to connect JS with HTML and CSS, along with a number of JS grammars(such as document.querySelector) frequently used.
+
+
+
+Used Languages: HTML, CSS, JavaScript
